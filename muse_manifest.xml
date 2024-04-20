@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ferreteria.com" resolutions="1x" timestamp="1713660779407">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4108180200" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="herramientas-ferreteria-industrial.jpg" crc="4108225020" seo="true" ref="index"/>
+    <file name="png-transparent-cookware-design-cook-art-cookware.jpg" crc="360536269" seo="true" ref="index"/>
+    <file name="ferreteria4-800x630.jpg" crc="353024472" seo="true" ref="index"/>
+    <file name="klein-tools-sumicali.png" crc="397779091" seo="true" ref="index"/>
+    <file name="skil-logo-color_500px.png" crc="88790027" seo="true" ref="index"/>
+    <file name="ocus-brand-lock_logo.jpg" crc="16303797" seo="true" ref="index"/>
+    <file name="shop-vac-logo-vector.jpg" crc="459205767" seo="true" ref="index"/>
+    <file name="escurridor-para-trastes-ferplast.jpg" crc="4091129465" seo="true" ref="index"/>
+    <file name="jha-239_2_copia_1.jpg" crc="184562674" seo="true" ref="index"/>
+    <file name="67485816-estilo-de-dibujos-animados-aislado-conjunto-con-iconos-e-imágenes-de-utensilios-de-limpieza.jpg" crc="73111212" seo="true" ref="index"/>
+    <file name="71-4cvdgrgl.jpg" crc="500370818" seo="true" ref="index"/>
+    <file name="rs-500-requiez-silla-para-oficina-gaudi-muebles-2.jpg" crc="3901251960" seo="true" ref="index"/>
+    <file name="6hjl3_aw01.jpg" crc="8411005" seo="true" ref="index"/>
+    <file name="escalera-tipo-tijera.jpg" crc="4201535833" seo="true" ref="index"/>
+    <file name="cautin-tipo-lapiz-para-soldar-40w-economico-mango-amarillo-radox.jpg" crc="4055488256" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4252006133" seo="true" mt="1712453328513" redirect="true"/>
+</manifest>
